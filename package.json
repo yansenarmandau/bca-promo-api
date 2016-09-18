@@ -1,0 +1,17 @@
+{
+  "name": "bca-promo",
+  "version": "1.0.0",
+  "description": "BCA Promo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yansen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0"
+  }
+}
